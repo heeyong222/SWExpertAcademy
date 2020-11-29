@@ -1,2 +1,2 @@
 # SWExpertAcademy
-SWExpertAcademy 연습문제 
+SWExpertAcademy 연습문제 풀이
